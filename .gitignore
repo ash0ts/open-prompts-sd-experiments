@@ -165,3 +165,9 @@ sample_prompts/
 sample_prompts.csv
 prompts/
 prompts.csv
+input/
+output/
+morph/
+DiffMorph/
+*/preds.npy
+*/test
